@@ -6,7 +6,8 @@ A simple to-do list application built with React. Users can add, list, complete 
 
 ## Features
 - Add a new task
-- Complete task
+- Complete the task
+- Edit the task
 - Delete a task
 - List all tasks
 
