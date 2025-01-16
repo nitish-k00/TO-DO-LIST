@@ -2,10 +2,11 @@
 
 # Simple To-Do List App
 
-A simple to-do list application built with React. Users can add and delete tasks from the list.
+A simple to-do list application built with React. Users can add, list, complete and delete tasks from the list.
 
 ## Features
 - Add a new task
+- Complete task
 - Delete a task
 - List all tasks
 
